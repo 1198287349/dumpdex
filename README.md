@@ -45,7 +45,7 @@ Additionally, you can see in `-h` that the new options provided by frida-dexdump
 
 When using, I suggest using the `-d, --deep-search` option, which may take more time, but the results will be more complete.
 
-![screenshot](screenshot.png)
+
 
 ## Build and develop
 
