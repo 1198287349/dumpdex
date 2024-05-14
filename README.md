@@ -16,20 +16,4 @@ frida-dexdump -U -f com.app.pkgname
 When using, I suggest using the `-d, --deep-search` option, which may take more time, but the results will be more complete.
 
 
-
-## Build and develop
-
-```
-make
-
-```
-## Build exe
-```
-pyinstaller --onefile -n frida-dexdump frida_dexdump/__main__.py
-```
-### Requires
-
-See [requirements.txt](https://github.com/hluwa/FRIDA-DEXDump/blob/master/requirements.txt)
-
-
 # dumpdex
