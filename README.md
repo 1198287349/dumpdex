@@ -13,14 +13,6 @@ Or specify and spawn app like this:
 frida-dexdump -U -f com.app.pkgname
 ```
 
-Additionally, you can see in `-h` that the new options provided by frida-dexdump are: 
-
-```
--o OUTPUT, --output OUTPUT  Output folder path, default is './<appname>/'.
--d, --deep-search           Enable deep search mode.
---sleep SLEEP               Waiting times for start, spawn mode default is 5s.
-```
-
 When using, I suggest using the `-d, --deep-search` option, which may take more time, but the results will be more complete.
 
 
