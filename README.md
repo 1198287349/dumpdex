@@ -13,7 +13,6 @@ Or specify and spawn app like this:
 frida-dexdump -U -f com.app.pkgname
 ```
 
-When using, I suggest using the `-d, --deep-search` option, which may take more time, but the results will be more complete.
 
 
 # dumpdex
