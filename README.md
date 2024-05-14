@@ -1,16 +1,4 @@
 
-## Features
-
-1. Support fuzzy search broken header dex(deep search mode).
-2. Compatible with all android version(frida supported).
-3. One click installation, without modifying the system, easy to deploy and use.
-
-## Installation
-
-```
-pip3 install frida-dexdump
-```
-
 ## Usage
 
 CLI arguments base on [frida-tools](https://github.com/frida/frida-tools), you can quickly dump the foreground application like this:
